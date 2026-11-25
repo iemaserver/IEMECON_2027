@@ -1,5 +1,15 @@
 # IEMECON 2027
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Anime.js 3.2.1](https://img.shields.io/badge/Anime.js-3.2.1-FF4B4B?style=flat-square)](https://animejs.com/)
+[![Font Awesome 6.4.0](https://img.shields.io/badge/Font%20Awesome-6.4.0-528DD7?style=flat-square&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
+[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Inter%20%26%20Outfit-4285F4?style=flat-square&logo=googlefonts&logoColor=white)](https://fonts.google.com/)
+[![Firebase Hosting](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs/hosting)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Dependabot](https://img.shields.io/badge/Dependabot-Weekly-025E8C?style=flat-square&logo=dependabot&logoColor=white)](https://docs.github.com/en/code-security/dependabot)
+
 Conference website for IEEE IEMECON 2027, hosted by the University of Engineering & Management (UEM), Jaipur, India. The site provides conference information for researchers, authors, speakers and attendees, including paper submission guidelines, registration details, committees, the technical program and venue information.
 
 The website is a multi-page static site served through Firebase Hosting. There is no application framework, server-side runtime, database or build step in this repository.
